@@ -18,3 +18,15 @@
 - Test if the file are accessible from the EC2 Instance.
 
 <p align="center"><img src="./assets/file-system-in-the-cloud/01.PNG"></p>
+
+# Practice for Lab Goals
+
+## File Systsem in the Cloud using Amozone EFS
+
+### Step 1
+
+1. Review the lab objectives in the concepts field.
+2. Click Start Lab to provision your environment, then click Open AWS Console to begin.
+3. Please follow the lab instructions carefully and use the arrows below to navigate between steps.
+
+#### Concept
