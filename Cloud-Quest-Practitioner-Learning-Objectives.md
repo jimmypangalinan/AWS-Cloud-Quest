@@ -1,9 +1,17 @@
 # Cloud Quest Practitioner
 
+Cloud Practitioners will build basic cloud solutions using AWS services. You will learn about AWS Cloud concepts, security concepts, common use cases, billing and pricing models and business impacts.
+
 ## Learning Objectives
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ | :-------------: | ------------: |
-| col 3 is      | some wordy text |         $1600 |
-| col 2 is      |    centered     |           $12 |
-| zebra stripes |    are neat     |            $1 |
+For each assignment, you will receive an automated account to build a new solution on the AWS console.
+
+| Assignment Title           | Business Request                       | Learning Objectives |
+| :------------------------- | :------------------------------------- | :------------------ |
+| Cloud Computing Essentials | The city's web portal needs to migrate |                     |
+|                            | the beach wave size prediction page    |                     |
+|                            | to AWS to improve reliability.         |                     |
+|                            |                                        |                     |
+| :------------------------- | :------------------------------------- | :------------------ |
+|                            |                                        |                     |
+|                            |                                        |                     |
