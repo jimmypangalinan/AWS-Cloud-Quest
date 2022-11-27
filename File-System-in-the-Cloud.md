@@ -26,7 +26,18 @@
 ### Step 1
 
 1. Review the lab objectives in the concepts field.
-2. Click Start Lab to provision your environment, then click Open AWS Console to begin.
+2. For practice you can use amzone free tier account.
 3. Please follow the lab instructions carefully and use the arrows below to navigate between steps.
 
 #### Concept
+
+in the lab you will :
+
+- Launch and configure an Amazone EFS file system.
+- Mount the file system to an Amazone EC2 instance.
+- Connect a second Amazone EC2 Instance to the same file system.
+- Share file between the two Amazone EC2 instances.
+
+### Step 2
+
+1. In the Service search bar, type: `ec2`
