@@ -6,12 +6,11 @@ Cloud Practitioners will build basic cloud solutions using AWS services. You wil
 
 For each assignment, you will receive an automated account to build a new solution on the AWS console.
 
-| Assignment Title           | Business Request                       | Learning Objectives |
-| :------------------------- | :------------------------------------- | :------------------ |
-| Cloud Computing Essentials | The city's web portal needs to migrate |                     |
-|                            | the beach wave size prediction page    |                     |
-|                            | to AWS to improve reliability.         |                     |
-|                            |                                        |                     |
-| :------------------------- | :------------------------------------- | :------------------ |
-|                            |                                        |                     |
-|                            |                                        |                     |
+| Assignment Title           | Business Request                                                                                         | Learning Objectives |
+| :------------------------- | :------------------------------------------------------------------------------------------------------- | :------------------ |
+| Cloud Computing Essentials | The city's web portal needs to migrate the beach wave size prediction page to AWS to improve reliability |                     |
+|                            |                                                                                                          |                     |
+|                            |                                                                                                          |                     |
+|                            |                                                                                                          |                     |
+|                            |                                                                                                          |                     |
+|                            |                                                                                                          |                     |
