@@ -17,4 +17,4 @@
 - Mount an EFS endpoint to the third EC2 Instance.
 - Test if the file are accessible from the EC2 Instance.
 
-<p align="center"><img src="./assets/file-systemm-in-the-cloud/01.PNG"></p>
+<p align="center"><img src="./assets/file-system-in-the-cloud/01.png"></p>
