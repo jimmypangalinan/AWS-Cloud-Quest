@@ -41,3 +41,11 @@ in the lab you will :
 ### Step 2
 
 1. In the Service search bar, type: `ec2`
+2. Click EC2.
+3. Go to the next step.
+
+<p align="center"><img src="./assets/file-system-in-the-cloud/02.PNG"></p>
+
+#### Concept
+
+Amazone EFS provide a simple, service, set and forget, elastic file system that let you share file data without provisioning and manage storage.
